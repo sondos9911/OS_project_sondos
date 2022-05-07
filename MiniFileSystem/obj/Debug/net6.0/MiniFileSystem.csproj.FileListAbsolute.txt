@@ -1,0 +1,30 @@
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.exe
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.deps.json
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.runtimeconfig.json
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.dll
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\ref\MiniFileSystem.dll
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.pdb
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.csproj.AssemblyReference.cache
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.AssemblyInfoInputs.cache
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.AssemblyInfo.cs
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.csproj.CoreCompileInputs.cache
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.dll
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\ref\MiniFileSystem.dll
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.pdb
+D:\FCI\second term\This year\Operating Systems\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.genruntimeconfig.cache
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.exe
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.deps.json
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.runtimeconfig.json
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.dll
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\ref\MiniFileSystem.dll
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\bin\Debug\net6.0\MiniFileSystem.pdb
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.csproj.AssemblyReference.cache
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.AssemblyInfoInputs.cache
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.AssemblyInfo.cs
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.csproj.CoreCompileInputs.cache
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.dll
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\ref\MiniFileSystem.dll
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.pdb
+D:\FCI\second term\This year\MiniFileSystem\MiniFileSystem\obj\Debug\net6.0\MiniFileSystem.genruntimeconfig.cache

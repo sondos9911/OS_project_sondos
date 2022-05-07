@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "938cd60b-c505-4768-a5d5-e7478a3d173a": {
+      "ProjectGuid": "938cd60b-c505-4768-a5d5-e7478a3d173a",
+      "DisplayName": "MiniFileSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
